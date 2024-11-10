@@ -1,0 +1,70 @@
+/crypto-estate-planning
+│
+├── /contracts
+│   ├── AdvancedCryptoEstate.sol
+│   └── OtherContracts.sol
+│
+├── /migrations
+│   ├── 1_initial_migration.js
+│   └── 2_deploy_contracts.js
+│
+├── /test
+│   ├── test_advanced_crypto_estate.js
+│   └── other_tests.js
+│
+├── /client
+│   ├── /src
+│   │   ├── /components
+│   │   │   ├── Header.js
+│   │   │   ├── Footer.js
+│   │   │   └── EstateDashboard.js
+│   │   │
+│   │   ├── /pages
+│   │   │   ├── HomePage.js
+│   │   │   ├── BeneficiaryPage.js
+│   │   │   └── TransferPage.js
+│   │   │
+│   │   ├── /styles
+│   │   │   ├── main.css
+│   │   │   └── dashboard.css
+│   │   │
+│   │   ├── App.js
+│   │   └── index.js
+│   │
+│   ├── /public
+│   │   ├── index.html
+│   │   └── favicon.ico
+│   │
+│   └── package.json
+│
+├── /server
+│   ├── /controllers
+│   │   ├── userController.js
+│   │   └── assetController.js
+│   │
+│   ├── /models
+│   │   ├── User.js
+│   │   └── Asset.js
+│   │
+│   ├── /routes
+│   │   ├── userRoutes.js
+│   │   └── assetRoutes.js
+│   │
+│   ├── /utils
+│   │   ├── auth.js
+│   │   └── db.js
+│   │
+│   ├── server.js
+│   └── package.json
+│
+├── /config
+│   ├── config.json
+│   └── dbConfig.js
+│
+├── /scripts
+│   ├── deploy.js
+│   └── verify.js
+│
+├── .gitignore
+├── README.md
+└── truffle-config.js
