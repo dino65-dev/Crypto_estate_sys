@@ -2,7 +2,9 @@
 
 Welcome to the **Crypto Estate Planning Platform**! This project simplifies the process of including cryptocurrency and digital assets in estate planning, ensuring secure and compliant transfer of digital wealth to beneficiaries.
 
-![Crypto Estate Planning](https://i.pinimg.com/736x/c0/62/17/c062170a610a46aca46ea85d6f0070f3.jpg)
+<!-- ![Crypto Estate Planning](https://i.pinimg.com/736x/c0/62/17/c062170a610a46aca46ea85d6f0070f3.jpg) -->
+<p align="center">
+<img src="https://i.pinimg.com/originals/8f/06/04/8f0604aedc34d33d2f41113c312a588d.gif"  width="300">
 
 ## 🚀 Features
 
