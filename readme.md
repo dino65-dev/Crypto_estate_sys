@@ -58,13 +58,37 @@ Welcome to the **Crypto Estate Planning Platform**! This project simplifies the 
 
 1. **Clone the repository**:
 ```bash
-   git clone https://github.com/yourusername/crypto-estate-planning.git
-   cd crypto-estate-planning
+   git clone https://github.com/dino65-dev/Crypto_estate_sys.git
+   cd Crypto_estate_sys
+```
+2. **Install dependencies:**
+```bash
+npm install
+```
+3. **Compile smart contracts:**
+```bash
+truffle compile
+```
+4. **Deploy contracts:**
+```bash
+truffle migrate
+```
+5. **Run tests:**
+```bash
+truffle test
 ```
 
 ## 📱 Usage
-
-
+1. **Web Application: Navigate to the /client directory and run:**
+```bash
+npm start
+```
+Access the app at http://localhost:3000.
+2. **Server: Navigate to the /server directory and run:**
+```bash
+node server.js
+```
+API available at http://localhost:5000.
 
 ## 🤝 Contributing
 - We welcome contributions! Please read our Contributing Guidelines  for more details.
