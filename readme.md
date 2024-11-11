@@ -59,7 +59,7 @@ Welcome to the **Crypto Estate Planning Platform**! This project simplifies the 
 1. **Clone the repository**:
 ```bash
    git clone https://github.com/dino65-dev/Crypto_estate_sys.git
-   cd Crypto_estate_sys
+   cd crypto-estate-planning
 ```
 2. **Install dependencies:**
 ```bash
