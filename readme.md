@@ -15,6 +15,7 @@ Welcome to the **Crypto Estate Planning Platform**! This project simplifies the 
 - **Scalable Architecture**: Designed to handle millions of users with microservices and cloud integration.
 
 ## 📂 Project Structure
+```
 /crypto-estate-planning
 │
 ├── /contracts
@@ -52,7 +53,7 @@ Welcome to the **Crypto Estate Planning Platform**! This project simplifies the 
 ├── .gitignore
 ├── README.md
 └── truffle-config.js
-
+```
 
 ## 🛠️ Installation
 
